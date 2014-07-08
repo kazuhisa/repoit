@@ -18,7 +18,7 @@ ActiveRecord::Schema.define(version: 20140630140534) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.binary   "data"
-    t.binary   "#<ActiveRecord::ConnectionAdapters::TableDefinition:0x25daabbf>"
+    t.binary   "#<ActiveRecord::ConnectionAdapters::TableDefinition:0x6b9e1399>"
   end
 
 end
